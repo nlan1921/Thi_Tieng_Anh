@@ -1,0 +1,32 @@
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\ResolveAssemblyReference.cache
+E:\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Entities\bin\Debug\Entities.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Entities\obj\Debug\Entities.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\Entities.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\Entities.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\obj\Debug\Entities.csproj.AssemblyReference.cache
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\obj\Debug\Entities.csproj.CopyComplete
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\obj\Debug\Entities.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\obj\Debug\Entities.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Entities\bin\Debug\FlashControlV71.dll

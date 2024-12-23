@@ -1,0 +1,53 @@
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\1.........C#\C# 2\1...........De Tai\2..............source Trac Nghiem Chinh Thuc\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\bh\Desktop\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\ResolveAssemblyReference.cache
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+E:\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Business_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Data_Tier.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\bin\Debug\Entities.pdb
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.csprojResolveAssemblyReference.cache
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.dll
+C:\Users\NguyeNSang\Desktop\C#\SON_THUAN_TracNghiemTiengAnh\slThiTracNghiem_Son_Thuan\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\Business_Tier.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\Entities.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\Data_Tier.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\Entities.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.csproj.AssemblyReference.cache
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.csproj.CoreCompileInputs.cache
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.csproj.CopyComplete
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\obj\Debug\Business_Tier.pdb
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\CrystalDecisions.Shared.dll
+D:\Study\Winform\TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]TracNghiemTiengAnh\[sharecode.vn]slThiTracNghiem\Business_Tier\bin\Debug\FlashControlV71.dll
